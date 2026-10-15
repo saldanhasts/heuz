@@ -1,0 +1,443 @@
+{
+ "heuz-training-overhead-squat": {
+  "width": 1440,
+  "height": 1918,
+  "source": "https://www.instagram.com/theheuzclub/p/DQmsuavCefq/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-overhead-squat-480.webp",
+    "kb": 12
+   },
+   {
+    "w": 800,
+    "file": "heuz-training-overhead-squat-800.webp",
+    "kb": 23
+   },
+   {
+    "w": 1280,
+    "file": "heuz-training-overhead-squat-1280.webp",
+    "kb": 47
+   },
+   {
+    "w": 1440,
+    "file": "heuz-training-overhead-squat-1440.webp",
+    "kb": 58
+   }
+  ]
+ },
+ "heuz-training-box-jump": {
+  "width": 1440,
+  "height": 1706,
+  "source": "https://www.instagram.com/theheuzclub/p/DGgiv6XJzpi/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-box-jump-480.webp",
+    "kb": 16
+   },
+   {
+    "w": 800,
+    "file": "heuz-training-box-jump-800.webp",
+    "kb": 31
+   },
+   {
+    "w": 1280,
+    "file": "heuz-training-box-jump-1280.webp",
+    "kb": 57
+   },
+   {
+    "w": 1440,
+    "file": "heuz-training-box-jump-1440.webp",
+    "kb": 71
+   }
+  ]
+ },
+ "heuz-community-01": {
+  "width": 1440,
+  "height": 1131,
+  "source": "https://www.instagram.com/theheuzclub/p/DNYm24MJECJ/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-community-01-480.webp",
+    "kb": 23
+   },
+   {
+    "w": 800,
+    "file": "heuz-community-01-800.webp",
+    "kb": 45
+   },
+   {
+    "w": 1280,
+    "file": "heuz-community-01-1280.webp",
+    "kb": 80
+   },
+   {
+    "w": 1440,
+    "file": "heuz-community-01-1440.webp",
+    "kb": 95
+   }
+  ]
+ },
+ "heuz-community-02": {
+  "width": 1440,
+  "height": 1018,
+  "source": "https://www.instagram.com/theheuzclub/p/DJHyNP7JebX/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-community-02-480.webp",
+    "kb": 20
+   },
+   {
+    "w": 800,
+    "file": "heuz-community-02-800.webp",
+    "kb": 43
+   },
+   {
+    "w": 1280,
+    "file": "heuz-community-02-1280.webp",
+    "kb": 84
+   },
+   {
+    "w": 1440,
+    "file": "heuz-community-02-1440.webp",
+    "kb": 104
+   }
+  ]
+ },
+ "heuz-murph-medal": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/DSDBXN0kfv7/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-murph-medal-480.webp",
+    "kb": 18
+   },
+   {
+    "w": 640,
+    "file": "heuz-murph-medal-640.webp",
+    "kb": 28
+   }
+  ]
+ },
+ "heuz-murph-2025": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/DSTTLLfCXVx/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-murph-2025-480.webp",
+    "kb": 26
+   },
+   {
+    "w": 640,
+    "file": "heuz-murph-2025-640.webp",
+    "kb": 37
+   }
+  ]
+ },
+ "heuz-murph-row": {
+  "width": 1440,
+  "height": 1800,
+  "source": "https://www.instagram.com/theheuzclub/p/C7h7B0quC5M/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-murph-row-480.webp",
+    "kb": 17
+   },
+   {
+    "w": 800,
+    "file": "heuz-murph-row-800.webp",
+    "kb": 31
+   },
+   {
+    "w": 1280,
+    "file": "heuz-murph-row-1280.webp",
+    "kb": 55
+   },
+   {
+    "w": 1440,
+    "file": "heuz-murph-row-1440.webp",
+    "kb": 64
+   }
+  ]
+ },
+ "heuz-coach-briefing": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/C4RQT33u-Uo/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-coach-briefing-480.webp",
+    "kb": 16
+   },
+   {
+    "w": 640,
+    "file": "heuz-coach-briefing-640.webp",
+    "kb": 24
+   }
+  ]
+ },
+ "heuz-open-support-01": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/C4EYMNkuLLM/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-open-support-01-480.webp",
+    "kb": 20
+   },
+   {
+    "w": 640,
+    "file": "heuz-open-support-01-640.webp",
+    "kb": 27
+   }
+  ]
+ },
+ "heuz-open-support-02": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/C4YZjBtu0At/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-open-support-02-480.webp",
+    "kb": 18
+   },
+   {
+    "w": 640,
+    "file": "heuz-open-support-02-640.webp",
+    "kb": 26
+   }
+  ]
+ },
+ "heuz-box-interior": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/C3jFKKXtrQR/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-box-interior-480.webp",
+    "kb": 26
+   },
+   {
+    "w": 640,
+    "file": "heuz-box-interior-640.webp",
+    "kb": 36
+   }
+  ]
+ },
+ "heuz-training-barbell-01": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/C871AZQyloR/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-barbell-01-480.webp",
+    "kb": 21
+   },
+   {
+    "w": 640,
+    "file": "heuz-training-barbell-01-640.webp",
+    "kb": 30
+   }
+  ]
+ },
+ "heuz-training-barbell-02": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/DHmOyCuJLZs/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-barbell-02-480.webp",
+    "kb": 15
+   },
+   {
+    "w": 640,
+    "file": "heuz-training-barbell-02-640.webp",
+    "kb": 21
+   }
+  ]
+ },
+ "heuz-training-deadlift": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/DIRTOlysfyv/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-deadlift-480.webp",
+    "kb": 18
+   },
+   {
+    "w": 640,
+    "file": "heuz-training-deadlift-640.webp",
+    "kb": 25
+   }
+  ]
+ },
+ "heuz-training-bike-01": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/DIcciiXsLnk/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-bike-01-480.webp",
+    "kb": 19
+   },
+   {
+    "w": 640,
+    "file": "heuz-training-bike-01-640.webp",
+    "kb": 27
+   }
+  ]
+ },
+ "heuz-training-bike-02": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/C7xeHNyNJHB/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-bike-02-480.webp",
+    "kb": 25
+   },
+   {
+    "w": 640,
+    "file": "heuz-training-bike-02-640.webp",
+    "kb": 35
+   }
+  ]
+ },
+ "heuz-training-bike-03": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/DN33lwqCSxo/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-bike-03-480.webp",
+    "kb": 22
+   },
+   {
+    "w": 640,
+    "file": "heuz-training-bike-03-640.webp",
+    "kb": 30
+   }
+  ]
+ },
+ "heuz-training-box-step": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/C7fGCl5uts_/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-box-step-480.webp",
+    "kb": 23
+   },
+   {
+    "w": 640,
+    "file": "heuz-training-box-step-640.webp",
+    "kb": 33
+   }
+  ]
+ },
+ "heuz-training-box-02": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/DKPo46eu0lU/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-box-02-480.webp",
+    "kb": 17
+   },
+   {
+    "w": 640,
+    "file": "heuz-training-box-02-640.webp",
+    "kb": 24
+   }
+  ]
+ },
+ "heuz-training-kettlebell": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/DH9w-KzMaGq/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-kettlebell-480.webp",
+    "kb": 13
+   },
+   {
+    "w": 640,
+    "file": "heuz-training-kettlebell-640.webp",
+    "kb": 19
+   }
+  ]
+ },
+ "heuz-training-jumprope-01": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/DHo6gzSs8QZ/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-jumprope-01-480.webp",
+    "kb": 17
+   },
+   {
+    "w": 640,
+    "file": "heuz-training-jumprope-01-640.webp",
+    "kb": 24
+   }
+  ]
+ },
+ "heuz-training-jumprope-02": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/DIMsZjmpHNw/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-jumprope-02-480.webp",
+    "kb": 12
+   },
+   {
+    "w": 640,
+    "file": "heuz-training-jumprope-02-640.webp",
+    "kb": 18
+   }
+  ]
+ },
+ "heuz-training-focus-bw": {
+  "width": 640,
+  "height": 1136,
+  "source": "https://www.instagram.com/theheuzclub/p/DPLqZJ3DhYs/",
+  "variants": [
+   {
+    "w": 480,
+    "file": "heuz-training-focus-bw-480.webp",
+    "kb": 10
+   },
+   {
+    "w": 640,
+    "file": "heuz-training-focus-bw-640.webp",
+    "kb": 14
+   }
+  ]
+ }
+}
