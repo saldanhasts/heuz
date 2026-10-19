@@ -320,7 +320,7 @@ a {
 
 .btn-solid {
     background: var(--accent);
-    color: #000000;
+    color: #FFFFFF;
     border: 2px solid #b40001;
     border-radius: 31px;
 }
@@ -330,6 +330,7 @@ a {
   position: absolute;
   inset: 0;
   background: var(--white);
+  color: #000000 !important;
   transform: translateY(101%);
   transition: transform 0.5s var(--ease-out);
   z-index: -1;
